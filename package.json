@@ -1,0 +1,22 @@
+{
+    "name": "vscode-for-node-js-development-pack",
+    "displayName": "vscode-for-node-js-development-pack",
+    "description": "A starter pack of extensions for VS Code + Node.js",
+    "version": "0.0.1",
+    "publisher": "bitandbang",
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [ 
+        "PeterJausovec.vscode-docker", 
+        "Shan.code-settings-sync", 
+        "christian-kohler.npm-intellisense", 
+        "dbaeumer.vscode-eslint", 
+        "johnpapa.azure-functions-tools", 
+        "kisstkondoros.vscode-codemetrics", 
+        "msjsdiag.debugger-for-chrome"
+    ]
+}
