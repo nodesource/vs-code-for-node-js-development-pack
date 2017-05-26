@@ -1,5 +1,5 @@
 {
-    "name": "VS Code for Node.js Development Pack",
+    "name": "Node.js Development Pack",
     "displayName": "vscode-for-node-js-development-pack",
     "description": "A starter pack of extensions for VS Code + Node.js by NodeSource",
     "version": "0.0.1",
