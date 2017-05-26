@@ -1,7 +1,7 @@
 {
-    "name": "vscode-for-node-js-development-pack",
+    "name": "VS Code for Node.js - Development Pack",
     "displayName": "vscode-for-node-js-development-pack",
-    "description": "A starter pack of extensions for VS Code + Node.js",
+    "description": "A starter pack of extensions for VS Code + Node.js by NodeSource",
     "version": "0.0.1",
     "publisher": "bitandbang",
     "engines": {
@@ -10,6 +10,25 @@
     "categories": [
         "Extension Packs"
     ],
+    "keywords": [
+        "node",
+        "node.js",
+        "nodesource",
+        "beginner"
+    ],
+    "galleryBanner": {
+        "color": "#5ac878",
+        "theme": "dark"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/nodesource/vs-code-for-node-js-development-pack/issues"
+    },
+    "homepage": "https://github.com/nodesource/vs-code-for-node-js-development-pack",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nodesource/vs-code-for-node-js-development-pack.git"
+    },
     "extensionDependencies": [ 
         "PeterJausovec.vscode-docker", 
         "Shan.code-settings-sync", 
