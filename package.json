@@ -3,7 +3,7 @@
     "displayName": "VS Code for Node.js - Development Pack",
     "description": "A starter pack of extensions for VS Code + Node.js by NodeSource",
     "version": "0.1.0",
-    "publisher": "bitandbang",
+    "publisher": "nodesource",
     "engines": {
         "vscode": "^1.12.0"
     },
