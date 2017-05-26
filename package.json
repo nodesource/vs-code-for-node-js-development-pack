@@ -1,6 +1,6 @@
 {
-    "name": "Node.js Development Pack",
-    "displayName": "vscode-for-node-js-development-pack",
+    "name": "vscode-for-node-js-development-pack",
+    "displayName": "VS Code for Node.js - Development Pack",
     "description": "A starter pack of extensions for VS Code + Node.js by NodeSource",
     "version": "0.0.1",
     "publisher": "bitandbang",
