@@ -20,6 +20,7 @@
         "color": "#5ac878",
         "theme": "dark"
     },
+    "icon": "img/node-js-logo@128h.png",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/nodesource/vs-code-for-node-js-development-pack/issues"
