@@ -3,7 +3,7 @@ All notable changes to the "vscode-for-node-js-development-pack" extension pack 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-# [1.0.2]
+# [1.1.0]
 Added `wix.vscode-import-cost` to the Extension Pack
 Updated `README.md` with some formatting improvements
 
