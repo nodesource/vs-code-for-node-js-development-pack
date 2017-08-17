@@ -4,8 +4,9 @@
 This is an extension pack composed of the extensions found in our article [Getting Started with VS Code for Node.js Development](https://nodesource.com/blog/getting-started-with-vs-code-for-node-js-development). The goal with them is to easily enable developers looking to get up and running with VS Code as a text editor for Node.js.
 
 ## Links
-Find this Extension Pack on the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=nodesource.vscode-for-node-js-development-pack)
-Find this Extension Pack on [GitHub](https://github.com/nodesource/vs-code-for-node-js-development-pack)
+
+* Find this Extension Pack on the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=nodesource.vscode-for-node-js-development-pack)
+* Find this Extension Pack on [GitHub](https://github.com/nodesource/vs-code-for-node-js-development-pack)
 
 ## Extensions Included
 
@@ -19,12 +20,14 @@ Find this Extension Pack on [GitHub](https://github.com/nodesource/vs-code-for-n
 Read the [post](https://nodesource.com/blog/getting-started-with-vs-code-for-node-js-development) to get a bit more context on these extensions. 😉
 
 ### Keymaps
+
 - The [Sublime keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings)
 - The [Atom keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.atom-keybindings)
 - The [Vim keymap](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
 - The [Emacs keymap](https://marketplace.visualstudio.com/items?itemName=hiro-sun.vscode-emacs)
 
 ### Extension Packs
+
 - The [Node.js Extension Pack](https://marketplace.visualstudio.com/items?itemName=waderyan.nodejs-extension-pack)
 - The [Azure Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-azureextensionpack)
 - The [Git Extension Pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.git-extension-pack)
