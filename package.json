@@ -37,6 +37,7 @@
         "dbaeumer.vscode-eslint",
         "johnpapa.azure-functions-tools",
         "kisstkondoros.vscode-codemetrics",
-        "msjsdiag.debugger-for-chrome"
+        "msjsdiag.debugger-for-chrome",
+        "wix.vscode-import-cost"        
     ]
 }
