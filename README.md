@@ -1,7 +1,7 @@
 
 # VS Code for Node.js Development Quickstart Pack
 
-This is an extension pack composed of the extensions found in our article [Getting Started with VS Code for Node.js Development](https://nodesource.com/blog/getting-started-with-vs-code-for-node-js-development). The goal with them is to easily enable developers looking to get up and running with VS Code as a text editor for Node.js.
+This is an extension pack composed of the extensions found in our article [Getting Started with VS Code for Node.js Development](https://nodesource.com/blog/getting-started-with-vs-code-for-node-js-development). The purpose of the extension pack is to enable developers to use VS Code as a text editor for Node.js.
 
 ## Links
 
