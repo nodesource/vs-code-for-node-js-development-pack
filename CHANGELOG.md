@@ -3,6 +3,9 @@ All notable changes to the "vscode-for-node-js-development-pack" extension pack 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+# [1.2.0]
+Updated `johnpapa.azure-functions-tools` to `ms-azuretools.vscode-azurefunctions`
+
 # [1.1.0]
 Added `wix.vscode-import-cost` to the Extension Pack
 Updated `README.md` with some formatting improvements
