@@ -35,7 +35,7 @@
         "Shan.code-settings-sync",
         "christian-kohler.npm-intellisense",
         "dbaeumer.vscode-eslint",
-        "johnpapa.azure-functions-tools",
+        "ms-azuretools.vscode-azurefunctions",
         "kisstkondoros.vscode-codemetrics",
         "msjsdiag.debugger-for-chrome",
         "wix.vscode-import-cost"
