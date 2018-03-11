@@ -38,6 +38,7 @@
         "johnpapa.azure-functions-tools",
         "kisstkondoros.vscode-codemetrics",
         "msjsdiag.debugger-for-chrome",
-        "wix.vscode-import-cost"
+        "wix.vscode-import-cost",
+        "MS-vsliveshare.vsliveshare"
     ]
 }
