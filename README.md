@@ -10,7 +10,7 @@ This is an extension pack composed of the extensions found in our article [Getti
 
 ## Extensions Included
 
-- The [npm InteliSense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) extension
+- The [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) extension
 - The [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) extension
 - The [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) extension
 - The [Code Metrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics) extension
