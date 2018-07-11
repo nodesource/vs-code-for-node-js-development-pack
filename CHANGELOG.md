@@ -3,6 +3,9 @@ All notable changes to the "vscode-for-node-js-development-pack" extension pack 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+# [1.3.1]
+- Add Visual Studio Live Share to the list of included extensions in README.md
+
 # [1.3.0]
 - Added Visual Studio Live Share - thanks to Jonathan Carter for [the PR](https://github.com/nodesource/vs-code-for-node-js-development-pack/pull/4)!
 - Fixed a minor typo - thanks to styfle for [the PR](https://github.com/nodesource/vs-code-for-node-js-development-pack/pull/5).
