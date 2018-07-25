@@ -39,6 +39,7 @@
         "kisstkondoros.vscode-codemetrics",
         "msjsdiag.debugger-for-chrome",
         "wix.vscode-import-cost",
-        "MS-vsliveshare.vsliveshare"
+        "MS-vsliveshare.vsliveshare",
+        "MS-vsliveshare.vsliveshare-audio"
     ]
 }

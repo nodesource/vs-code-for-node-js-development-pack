@@ -17,6 +17,7 @@ This is an extension pack composed of the extensions found in our article [Getti
 - The [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) extension
 - The [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) extension
 - The [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) extension
+- The [VS Live Share Audio](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio) extension
 
 ## Keymaps and Packs Shared in the Post (but not included here)
 Read the [post](https://nodesource.com/blog/getting-started-with-vs-code-for-node-js-development) to get a bit more context on these extensions. 😉
