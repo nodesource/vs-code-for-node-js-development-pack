@@ -30,7 +30,7 @@
         "type": "git",
         "url": "https://github.com/nodesource/vs-code-for-node-js-development-pack.git"
     },
-    "extensionDependencies": [
+    "extensionPack": [
         "PeterJausovec.vscode-docker",
         "Shan.code-settings-sync",
         "christian-kohler.npm-intellisense",
