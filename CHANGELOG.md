@@ -3,6 +3,12 @@ All notable changes to the "vscode-for-node-js-development-pack" extension pack 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+# [2.0.1]
+- Updated with missing CHANGELOG.md entry for 2.0.0
+
+# [2.0.0]
+- Updated to use `extensionPack` instead of `extensionDependencies` and updated VS Code engine compatability [#8](https://github.com/nodesource/vs-code-for-node-js-development-pack/pull/8)
+
 # [1.4.0]
 - Added Visual Studio Live Share Audio extension – thanks to Jonathan Carter for [the PR](https://github.com/nodesource/vs-code-for-node-js-development-pack/pull/7) 🎉
 
