@@ -5,7 +5,7 @@
     "version": "1.3.1",
     "publisher": "nodesource",
     "engines": {
-        "vscode": "^1.12.0"
+        "vscode": "^1.26.0"
     },
     "categories": [
         "Extension Packs"
@@ -30,7 +30,7 @@
         "type": "git",
         "url": "https://github.com/nodesource/vs-code-for-node-js-development-pack.git"
     },
-    "extensionDependencies": [
+    "extensionPack": [
         "PeterJausovec.vscode-docker",
         "Shan.code-settings-sync",
         "christian-kohler.npm-intellisense",
